@@ -29,7 +29,3 @@ Este é um aplicativo Java simples para gerenciamento de funcionários em uma em
 - **Ordem Alfabética:** Exibe a lista de funcionários em ordem alfabética.
 - **Total de Salários:** Exibe o total dos salários dos funcionários.
 - **Salários Mínimos:** Calcula quantos salários mínimos cada funcionário ganha.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
